@@ -1,4 +1,3 @@
-# gan-dump
+#tensorflow apis for training some types of neural networks (gans, etc.)
 
-## lots of gan stuff in tensorflow
-### gan moment
+##still work in progress!
