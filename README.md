@@ -1,3 +1,1 @@
-# tensorflow apis for training some types of neural networks (gans, etc.)
-
-## still work in progress!
+# My own implementation of a deep convolutional GAN (DCGAN)
